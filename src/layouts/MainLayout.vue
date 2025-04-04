@@ -7,7 +7,7 @@
 
     <!-- Main Content Area -->
     <q-page-container class="main-container">
-      <!-- Top Navigation Bar -->
+
       <div class="top-nav-bar">
         <!-- Navigation Buttons -->
         <div class="nav-buttons">
